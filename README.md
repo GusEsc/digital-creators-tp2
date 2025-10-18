@@ -61,12 +61,12 @@ digital-creators-tp2/
 ## Diagramas de Arquitectura
 
 ### Árbol de Componentes
-![Árbol de Componentes](/diagrama-componentes.png)
+![Árbol de Componentes](/public/diagrama-componentes.png)
 
 Jerarquía de componentes React mostrando cómo App.jsx contiene Sidebar y Routes, con todas las páginas conectadas.
 
 ### Estructura de Carpetas
-![Estructura de Carpetas](/diagrama-carpetas.png)
+![Estructura de Carpetas](/public/diagrama-carpetas.png)
 
 Organización del proyecto mostrando la distribución de componentes, estilos, datos y configuración.
 

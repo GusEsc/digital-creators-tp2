@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "title": "The Legend of Zelda",
+    "genre": "Adventure",
+    "year": 1986,
+    "platform": "NES",
+    "rating": 9.5,
+    "description": "Clásico de aventura que definió el género. Link debe rescatar a la Princesa Zelda en el reino de Hyrule."
+  },
+  {
+    "id": 2,
+    "title": "Super Mario Bros",
+    "genre": "Platformer",
+    "year": 1985,
+    "platform": "NES",
+    "rating": 9.8,
+    "description": "El juego que revolucionó la industria. Mario debe rescatar a la Princesa Peach del Castillo de Bowser."
+  },
+  {
+    "id": 3,
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "genre": "Adventure",
+    "year": 1998,
+    "platform": "Nintendo 64",
+    "rating": 9.7,
+    "description": "Masterpiece de la época de 64-bit. Viaja a través del tiempo para salvar Hyrule."
+  },
+  {
+    "id": 4,
+    "title": "Final Fantasy VII",
+    "genre": "RPG",
+    "year": 1997,
+    "platform": "PlayStation",
+    "rating": 9.4,
+    "description": "Épico RPG que define la serie. Cloud Strife lidera una rebelión contra la corporación Shinra."
+  },
+  {
+    "id": 5,
+    "title": "Metroid Prime",
+    "genre": "Adventure",
+    "year": 2002,
+    "platform": "GameCube",
+    "rating": 9.3,
+    "description": "Revolución en primera persona del clásico Metroid. Samus explora mundos alienígenas."
+  },
+  {
+    "id": 6,
+    "title": "The Last of Us",
+    "genre": "Action-Adventure",
+    "year": 2013,
+    "platform": "PlayStation 3",
+    "rating": 9.6,
+    "description": "Narrativa épica post-apocalíptica. Joel y Ellie viajan juntos en un mundo devastado."
+  },
+  {
+    "id": 7,
+    "title": "Halo: Combat Evolved",
+    "genre": "First-Person Shooter",
+    "year": 2001,
+    "platform": "Xbox",
+    "rating": 9.4,
+    "description": "Lanzador de Xbox que cambió los FPS. Master Chief pelea contra los Covenant en Halo."
+  },
+  {
+    "id": 8,
+    "title": "Grand Theft Auto V",
+    "genre": "Action-Adventure",
+    "year": 2013,
+    "platform": "Multiple",
+    "rating": 9.7,
+    "description": "Gigantesco mundo abierto en Los Santos. Controla a tres protagonistas en una trama épica."
+  },
+  {
+    "id": 9,
+    "title": "Red Dead Redemption 2",
+    "genre": "Action-Adventure",
+    "year": 2018,
+    "platform": "PlayStation 4 / Xbox One",
+    "rating": 9.8,
+    "description": "Western épico con narrativa cinematográfica. Arthur Morgan y la banda Van der Linde."
+  },
+  {
+    "id": 10,
+    "title": "The Elder Scrolls V: Skyrim",
+    "genre": "RPG",
+    "year": 2011,
+    "platform": "Multiple",
+    "rating": 9.3,
+    "description": "Mundo abierto masivo medieval-fantástico. Eres el Dragonborn destinado a salvar Skyrim."
+  },
+  {
+    "id": 11,
+    "title": "Dark Souls",
+    "genre": "Action RPG",
+    "year": 2011,
+    "platform": "PlayStation 3 / Xbox 360",
+    "rating": 9.1,
+    "description": "Desafiante juego de rol oscuro. Vence demonios en el reino de Lordran."
+  },
+  {
+    "id": 12,
+    "title": "Elden Ring",
+    "genre": "Action RPG",
+    "year": 2022,
+    "platform": "Multiple",
+    "rating": 9.5,
+    "description": "Mundo abierto de From Software. Busca el Elden Ring en las Tierras Intermedias."
+  },
+  {
+    "id": 13,
+    "title": "Super Smash Bros. Melee",
+    "genre": "Fighting",
+    "year": 2001,
+    "platform": "GameCube",
+    "rating": 9.2,
+    "description": "Legendario juego de lucha con personajes Nintendo. Modo single y multijugador épico."
+  },
+  {
+    "id": 14,
+    "title": "Street Fighter II",
+    "genre": "Fighting",
+    "year": 1991,
+    "platform": "Arcade / Multiple",
+    "rating": 9.0,
+    "description": "Juego de lucha que definió el género. Elige tu luchador y compite mundialmente."
+  },
+  {
+    "id": 15,
+    "title": "Tetris",
+    "genre": "Puzzle",
+    "year": 1984,
+    "platform": "Multiple",
+    "rating": 9.6,
+    "description": "Clásico de puzzles infinito. Encaja bloques antes de que lleguen al tope."
+  },
+  {
+    "id": 16,
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "year": 2011,
+    "platform": "Multiple",
+    "rating": 9.4,
+    "description": "Mundo de bloques infinito. Construye, explora y sobrevive en diferentes modos."
+  },
+  {
+    "id": 17,
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "year": 2018,
+    "platform": "Multiple",
+    "rating": 8.7,
+    "description": "Battle royale masivo con construcción. Sé el último jugador en pie."
+  },
+  {
+    "id": 18,
+    "title": "Pac-Man",
+    "genre": "Arcade",
+    "year": 1980,
+    "platform": "Arcade / Multiple",
+    "rating": 9.5,
+    "description": "Ícono arcade clásico. Come puntos y evita a los fantasmas."
+  },
+  {
+    "id": 19,
+    "title": "Donkey Kong Country",
+    "genre": "Platformer",
+    "year": 1994,
+    "platform": "Super Nintendo",
+    "rating": 9.1,
+    "description": "Plataformas con gráficos revolucionarios. Diddy y Donkey Kong recuperan sus plátanos."
+  },
+  {
+    "id": 20,
+    "title": "Sonic the Hedgehog",
+    "genre": "Platformer",
+    "year": 1991,
+    "platform": "Sega Genesis",
+    "rating": 8.9,
+    "description": "Speedster azul iconic. Corre a través de bucles y laberintos coloridos."
+  },
+  {
+    "id": 21,
+    "title": "Castlevania: Symphony of the Night",
+    "genre": "Action RPG",
+    "year": 1997,
+    "platform": "PlayStation",
+    "rating": 9.3,
+    "description": "Clásico de acción-RPG oscuro. Alucard explora el castillo de Drácula."
+  },
+  {
+    "id": 22,
+    "title": "Chrono Trigger",
+    "genre": "RPG",
+    "year": 1995,
+    "platform": "Super Nintendo",
+    "rating": 9.5,
+    "description": "RPG de tiempo con múltiples finales. Viaja a través de épocas para salvar el mundo."
+  },
+  {
+    "id": 23,
+    "title": "Mega Man X",
+    "genre": "Platformer",
+    "year": 1993,
+    "platform": "Super Nintendo",
+    "rating": 9.0,
+    "description": "Plataformas desafiantes de acción. X debe derrotar ocho Mega Men en cualquier orden."
+  },
+  {
+    "id": 24,
+    "title": "Portal 2",
+    "genre": "Puzzle-Platform",
+    "year": 2011,
+    "platform": "Multiple",
+    "rating": 9.4,
+    "description": "Puzzle innovador con portales. Resuelve enigmas usando tus poderes de portal."
+  },
+  {
+    "id": 25,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Adventure",
+    "year": 2017,
+    "platform": "Nintendo Switch / Wii U",
+    "rating": 9.8,
+    "description": "Revolución de mundo abierto. Link debe reunir el Triforce y derrotar a Calamity."
+  }
+]
